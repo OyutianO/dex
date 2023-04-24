@@ -1,6 +1,6 @@
-module github.com/dexidp/dex
+module github.com/OyutianO/dex
 
-go 1.20
+go 1.18
 
 require (
 	entgo.io/ent v0.11.10
